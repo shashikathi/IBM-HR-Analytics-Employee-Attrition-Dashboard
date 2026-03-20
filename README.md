@@ -4,7 +4,6 @@
 
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
 [![Excel](https://img.shields.io/badge/Excel-Analysis-brightgreen?logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
 [![Status](https://img.shields.io/badge/Project-Complete-brightgreen)]()
 
