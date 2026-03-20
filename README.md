@@ -2,10 +2,9 @@
 
 > _"Great companies don't lose great people. They understand why people leave — before they do."_
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-purple?logo=pandas)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/)
+
 [![Excel](https://img.shields.io/badge/Excel-Analysis-brightgreen?logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
 [![Status](https://img.shields.io/badge/Project-Complete-brightgreen)]()
 
